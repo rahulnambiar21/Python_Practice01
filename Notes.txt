@@ -1,0 +1,28 @@
+1. " DEFGH IJK " *
+2. "ABC DEFGH IJ"*
+3. "C DEFGH IJK LMN"*
+4. "BC DE  "/
+5. "ADHKN"/
+
+6. " DEFGH IJK L"/
+7. "ABC DEFGH IJK L"*
+8. "C DEFGH IJK LMN"/
+9. "ACDFHIKL"/
+10. "NLKIHFDCA"/
+
+
+1. hon Program
+2. Python Progr
+3. thon Programming
+4. y r
+5. Ph oan
+
+1. thon Program
+2. Python Progr
+3. ython Programing
+4. Pto rga
+5. giagr otP
+
+
+1. LIST IS A GROUP OF DIFFERENT TYPE OF DATA. IT IS SURROUNDED WITH SQUARE BRACKETS.
+   
