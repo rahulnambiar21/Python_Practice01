@@ -20,3 +20,22 @@ def maxofthree(a,b,c):
         print(b," Is Max")
     else:
         print(c," Is Max")
+
+def fibonacci(n):
+    a,b=0,1
+    print(a,end=" ")
+    while b<n:
+        print(b,end=" ")
+        a,b=b,a+b
+    print()
+
+def prime(n):
+    if n%2!=0:
+        for i in range(3,int(n/2)+1,2):
+            if n%i==0:
+                print(n," is not a prime number.")
+                break
+        else:
+            print(n," is a prime number")
+    else:
+        print(n," is not a prime number") 
