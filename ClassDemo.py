@@ -18,7 +18,8 @@ Object Oriented Programming
     4. Hierarchical
     5. Hybrid
 
-4. Polymorphism
+4. Polymorphism: ONE NAME MULTIPLE FORM :
+
     1. Compile Time Polymorphism - (Method Overloading) - When there is more
     than one method in a single class having the same name but with different
     number of arguments then it is called method overloading/Compile Time
